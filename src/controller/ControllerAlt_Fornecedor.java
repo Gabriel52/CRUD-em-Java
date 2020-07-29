@@ -12,6 +12,7 @@ import view.Alterar_Fornecedor;
  *
  * @author gabri
  */
+//controlle de fornecedores
 public class ControllerAlt_Fornecedor {
     private final Alterar_Fornecedor tela;
     
